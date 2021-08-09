@@ -9,5 +9,5 @@ rsa==4.0
 PyExecJS==1.5.1
 paramiko==2.4.2
 WMI==1.4.9
-pywin32==224
+pywin32==301
 selenium==3.13.0
