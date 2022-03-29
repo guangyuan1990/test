@@ -7,7 +7,7 @@ psycopg2==2.7.6.1
 requests-toolbelt==0.8.0
 rsa==4.0
 PyExecJS==1.5.1
-paramiko==2.4.2
+paramiko==2.10.1
 WMI==1.4.9
 pywin32==224
 selenium==3.13.0
